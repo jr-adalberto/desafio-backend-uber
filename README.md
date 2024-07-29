@@ -24,5 +24,5 @@ Este projeto é uma API desenvolvida em Java usando o Spring Framework e o AWS S
 Clone o repositório:
 
 ```sh
-git clone https://github.com/AdalbertoSilvaJr/email-microservice.git
-cd email-microservice
+git clone https://github.com/jr-adalberto/desafio-backend-uber.git
+cd desafio-backend-uber
